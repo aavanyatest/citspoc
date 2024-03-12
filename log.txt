@@ -1,0 +1,53 @@
+2024-03-08 07:09:59:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2024-03-08 07:10:00:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2024-03-08 07:10:11:03S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2024-03-08 07:10:33:03S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\Projects\Test POC\TestPlan\NewScenario\NewTestCase.csv] doesn't exist
+2024-03-08 07:10:33:03S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\Projects\Test POC\TestLab\NewRelease\NewTestSet.csv] doesn't exist
+[AWT-EventQueue-0] INFO org.eclipse.jetty.util.log - Logging initialized @378294597ms to org.eclipse.jetty.util.log.Slf4jLog
+jar:file:/C:/Users/hp/Downloads/cognizant-intelligent-test-scripter-2.0-setup/cognizant-intelligent-test-scripter-2.0/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2024-03-12 16:17:14:03S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2024-03-12 16:17:14:03S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+[SocketServer] INFO org.eclipse.jetty.server.Server - jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.21+9-LTS-193
+[SocketServer] INFO org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[SocketServer] INFO org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[SocketServer] INFO org.eclipse.jetty.server.session - node0 Scavenging every 600000ms
+[SocketServer] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1cd793b0{/,null,AVAILABLE}
+[SocketServer] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@1079037b(localhost,h=[localhost],a=[],w=[]) for SslContextFactory@7fd39e72[provider=null,keyStore=jar:file:/C:/Users/hp/Downloads/cognizant-intelligent-test-scripter-2.0-setup/cognizant-intelligent-test-scripter-2.0/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost,trustStore=null]
+[SocketServer] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@1c25217b{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[SocketServer] INFO org.eclipse.jetty.server.Server - Started @378300686ms
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@1c25217b{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.session - node0 Stopped scavenging
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1cd793b0{/,null,STOPPED}
+jar:file:/C:/Users/hp/Downloads/cognizant-intelligent-test-scripter-2.0-setup/cognizant-intelligent-test-scripter-2.0/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2024-03-12 16:22:39:03S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/C:/Users/hp/Downloads/cognizant-intelligent-test-scripter-2.0-setup/cognizant-intelligent-test-scripter-2.0/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2024-03-12 16:22:42:03S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2024-03-12 16:22:42:03S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+[SocketServer] INFO org.eclipse.jetty.server.Server - jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.21+9-LTS-193
+[SocketServer] INFO org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[SocketServer] INFO org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[SocketServer] INFO org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[SocketServer] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7d0aab50{/,null,AVAILABLE}
+[SocketServer] INFO org.eclipse.jetty.util.ssl.SslContextFactory - x509=X509@4831cae(localhost,h=[localhost],a=[],w=[]) for SslContextFactory@3251d7e3[provider=null,keyStore=jar:file:/C:/Users/hp/Downloads/cognizant-intelligent-test-scripter-2.0-setup/cognizant-intelligent-test-scripter-2.0/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost,trustStore=null]
+[SocketServer] INFO org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@41c1f9e4{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[SocketServer] INFO org.eclipse.jetty.server.Server - Started @378624635ms
+2024-03-12 16:22:47:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Draggable
+2024-03-12 16:22:47:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Draggable] - Click - null
+2024-03-12 16:22:59:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Drag me around
+2024-03-12 16:22:59:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Drag me around] - Click - null
+2024-03-12 16:23:20:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Auto-scroll
+2024-03-12 16:23:20:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Auto-scroll] - Click - null
+2024-03-12 16:23:33:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : scrollSensitivity set to 100
+2024-03-12 16:23:33:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[scrollSensitivity set to 100] - Click - null
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.AbstractConnector - Stopped ServerConnector@41c1f9e4{SSL, (ssl, http/1.1)}{0.0.0.0:8887}
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.session - node0 Stopped scavenging
+[AWT-EventQueue-0] INFO org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@7d0aab50{/,null,STOPPED}
+2024-03-12 16:23:55:03S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/C:/Users/hp/Downloads/cognizant-intelligent-test-scripter-2.0-setup/cognizant-intelligent-test-scripter-2.0/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2024-03-12 16:25:04:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2024-03-12 16:25:27:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2024-03-12 16:26:31:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2024-03-12 16:27:02:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2024-03-12 16:28:31:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2024-03-12 16:30:35:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2024-03-12 16:35:16:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\hp\Downloads\cognizant-intelligent-test-scripter-2.0-setup\cognizant-intelligent-test-scripter-2.0\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
